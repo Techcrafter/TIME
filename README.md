@@ -7,4 +7,4 @@ An open source puzzle game featuring real world images.
 For more detailed information about TIME, please [read the Instructions And Documentation](docs/TIME-EN_US-1.0.pdf).
 
 ## ✅ Project state
-This project is considered finished and therefore being archived.
+This project is considered finished and is therefore being archived.
